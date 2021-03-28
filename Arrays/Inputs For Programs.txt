@@ -1,0 +1,14 @@
+
+2 Sum Input : 
+3 5 -4 8 11 1 -1 6
+
+Valid Subsequence :
+5 1 22 25 6  -1 8 10
+1 6 -1 10
+
+3 Number Sum:
+3 5 6 12 1 2 -8 -6
+
+Smallest Difference:
+-1 5 10 20 28 3
+26 134 135 15 17
