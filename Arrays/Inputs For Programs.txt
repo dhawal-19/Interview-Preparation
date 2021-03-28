@@ -12,3 +12,6 @@ Valid Subsequence :
 Smallest Difference:
 -1 5 10 20 28 3
 26 134 135 15 17
+
+Move Elements to end:
+2 1 2 2 2 3 4 2
