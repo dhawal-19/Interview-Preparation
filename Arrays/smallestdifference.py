@@ -11,6 +11,8 @@ array1.sort()
 array2.sort()
 idx1 = 0
 idx2 = 0
+print(array1)
+print(array2)
 while idx1 < len(array1) and idx2 < len(array2):
     firstNum = array1[idx1]
     secondNum = array2[idx2]
@@ -21,11 +23,13 @@ while idx1 < len(array1) and idx2 < len(array2):
         currentDifference = firstNum - secondNum
         idx2 += 1
     else:
+        print("Here")
         print(firstNum,secondNum)
         break
     if smallestDifference > currentDifference:
         smallestDifference = currentDifference
-        
+        smallestPair = [firstNum,secondNum]
+print(smallestPair)
 
 
 
