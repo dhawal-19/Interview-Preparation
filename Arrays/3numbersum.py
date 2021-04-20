@@ -22,3 +22,5 @@ for index in range(len(array)-2):
 print(triplets)
 
 
+#Input
+#3 5 6 12 1 2 -8 -6

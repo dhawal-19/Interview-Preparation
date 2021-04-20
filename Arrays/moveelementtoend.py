@@ -14,3 +14,7 @@ while i < j:
         array[i], array[j] = array[j], array[i]
     i += 1
 print(array)
+
+
+# Input
+# 2 1 2 2 2 3 4 2

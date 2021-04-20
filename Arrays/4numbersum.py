@@ -25,3 +25,6 @@ for i in range(1,len(array)-1):
         else:
             allPairSums[currentSum].append([array[i], array[k]])
 print(quadruplets)
+
+#Input
+#7 6 4 -1 1 2

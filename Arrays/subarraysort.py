@@ -35,3 +35,8 @@ subArrayRightIdx = len(array) - 1
 while 0 <= subArrayRightIdx <= len(array) - 1 and maxOutOfOrder <= array[subArrayRightIdx]:
     subArrayRightIdx -= 1
 print([subArrayLeftIdx, subArrayRightIdx])
+
+
+
+# Input
+# 1 2 4 7 10 11 7 12 6 7 16 18 19

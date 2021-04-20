@@ -11,3 +11,7 @@ for index in range(1,len(array)):
     if array[index] > array[index - 1]:
         isNonIncreasing = False
 print(isNonIncreasing or isNonDecreasing)
+
+
+# Input
+# -1 -5 -10 -1100 -1100 -1101 -1102 -9001

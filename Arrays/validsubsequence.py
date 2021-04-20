@@ -13,4 +13,7 @@ while arrayIndex < len(array) and sequenceIndex < len(sequence):
         sequenceIndex += 1
     arrayIndex += 1
 print(len(sequence) == sequenceIndex)
-
+#
+# Input
+# 5 1 22 25 6  -1 8 10
+# 1 6 -1 10
